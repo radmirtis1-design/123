@@ -1,0 +1,26 @@
+{
+  "source_nets": 43,
+  "expanded_segments": 68,
+  "all_source_nets_preserved": true,
+  "all_original_targets_preserved": true,
+  "unique_segment_ids": true,
+  "critical_R3_IO_mappings_preserved": true,
+  "new_devices_added": false,
+  "supplementary_protective_bonding_segments": 2,
+  "supplementary_bonding_targets": [
+    "mounting_plate",
+    "door_bond"
+  ],
+  "structural_bond_points": {
+    "mounting_plate": "PE-MP",
+    "door_bond": "PE-DOOR"
+  },
+  "manufacturer_pins_verified": false,
+  "branch_nets_pending": [
+    "111",
+    "201",
+    "200",
+    "211",
+    "215"
+  ]
+}
